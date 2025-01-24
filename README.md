@@ -5,7 +5,6 @@ Description
 This project extracts 'Contractor shall' statements from proposals and saves them to a CSV file.
 
 Features
-List the main features of your project. For example:
 
 Extracts "Contractor shall" statements
 
@@ -28,10 +27,12 @@ Clone the repository:
 
 bash
 git clone https://github.com/your-username/your-repository-name.git
+
 Install dependencies:
 
 bash
 pip install -r requirements.txt
+
 Usage
 
 
